@@ -24,8 +24,8 @@ Siga estas etapas para configurar o projeto em sua máquina:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/alexsouza10/smartdoc
-   cd smartdoc
+   git clone https://github.com/alexsouza10/smartdoc-dio.git
+   cd smartdoc-dio
    ```
 
 2. Instale as dependências do projeto:
